@@ -73,6 +73,7 @@ body {
 .download-sheet img {
   max-width: calc(100% - 2rem * .5);
   max-height: calc(100% - 2rem * .5);
+  padding-bottom: .5em;
 }
 
 .link {
