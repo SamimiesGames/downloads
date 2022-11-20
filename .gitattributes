@@ -3,3 +3,4 @@ download/steel-on-target-v2022.0.28b2.zip filter=lfs diff=lfs merge=lfs -text
 download/steel-on-target-v2022.0.28b3.zip filter=lfs diff=lfs merge=lfs -text
 download/steel-on-target-v2022.0.28b5.zip filter=lfs diff=lfs merge=lfs -text
 download/steel-on-target-v2022.0.28b7.zip filter=lfs diff=lfs merge=lfs -text
+download/steel-on-target-v2022.0.28c.zip filter=lfs diff=lfs merge=lfs -text
